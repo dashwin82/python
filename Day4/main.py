@@ -27,4 +27,5 @@ dirty_dozen = [fruits, vegetables]
 
 print(fruits[-5])
 
+print(dirty_dozen)
 print(dirty_dozen[1][1])
